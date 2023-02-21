@@ -1,6 +1,6 @@
 {
-  "publishedAt": "23rd Apr 2021",
-  "title": "test1",
-  "content": "hello",
-  "featuredImage": null
+  "publishedAt": "5th Jun 2018",
+  "title": "Two Point Correlation Analysis of Heart Sound on Human Chest",
+  "content": "**Jan 2017 - Dec 2017**\n\n**McGill University, Luc Mongeau's Lab**\n\n* Assembled over 20 dual-channel GNA sensors and 2 PCB boards for heart sound measurement and achieved over 65% similarity in comparison with the benchmark signals\n* Successfully localized and separated spatial acoustic broadband sources and two-point correlation of heart sound with 100-line MATLAB codes\n\n  [![](https://26808843.s21i.faiusr.com/4/ABUIABAEGAAggPXUhwYowpacrgMwjAo43AY.png.webp)](<>)\n\n  ——\n\n  This project analyzes and discusses the comparison of heart sound signals obtained from GNA devices and electronic stethoscopes in order to demonstrate the efficacy of GNA devices for real-time monitoring.\\\n  The computational analysis was performed within MATLAB and generally included filtering algorithms, spectral analysis, heart rate calculation, cross-correlation with corresponding time delay values, and heart sound source localization and error analysis. The results verify that the dominant frequency components of both cardiac and pulmonary sounds have an overlap region of 20 Hz to 60 Hz. The results of cross-correlation of the signals provide evidence for the localization of broadband sound sources, which originate from the closure of the mitral and tricuspid valves and are located around the 4th rib cartilage. The manufacturing of the transducer, the fabrication of the PCB board used for data acquisition, and the code compilation for data post-processing are all done independently. The signal result of heart sound separation was successfully obtained and cross-correlation values were mapped over the chest diagram to provide evidence of the location of the heart sound source.",
+  "featuredImage": "https://26808843.s21i.faiusr.com/4/ABUIABAEGAAggPXUhwYowpacrgMwjAo43AY.png.webp"
 }
