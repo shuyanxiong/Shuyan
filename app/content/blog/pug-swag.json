@@ -1,5 +1,6 @@
 {
-  "title": "Pug Swag",
-  "publishedAt": "28th Nov 2019",
-  "content": "Pug swag yuccie artisan hot chicken, glossier cold-pressed. Tumeric you probably haven't heard of them kinfolk yuccie. Cronut prism jean shorts, pickled kinfolk fixie freegan. Irony meh quinoa af. Kinfolk thundercats 8-bit XOXO jianbing, health goth schlitz DIY blog pok pok literally succulents echo park master cleanse sriracha."
+  "title": "Customized 3D-Printed Insole Design with Nonhomogeneous Lattice Structure",
+  "publishedAt": "14th Jun 2018",
+  "content": "**Sep 2017 - Apr 2018 McGill University, Prof. Fiona Zhao’s Lab**\n\n* Designed and manufactured heterogeneous lattice-structured customized sole, including modelling in CATIA, simulation with ANSYS and topology optimization in Grasshopper, the result was successfully validated with a 3D-printed prototype\n* Compiled python script within Grasshopper to read spatial locations of weak points from simulation and performed structural optimization accordingly",
+  "featuredImage": "https://26808843.s21i.faiusr.com/4/ABUIABAEGAAghaHQhgYo4tKrhwQwwQI45QE.png.webp"
 }
