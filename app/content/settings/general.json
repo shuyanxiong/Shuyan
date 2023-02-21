@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
+  "title": "Home",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "welcomeText": "# Heeey, this is SHUYAN XIONG!\n\nMultidisciplinary engineering studies have enlightened me not only with fast-learning & critical thinking skills, the capability to work across disciplines, but also strong ability to combine design issues with solid technical background. From research projects and internships, I became proficient in parametric design and optimization, energy simulation, big data and other new technologies, as well as holding hands-on experience working with additive manufacturing, structural and HVAC design. As evidenced by my experiences working as VPs in different student organizations, I'm also competent in interpersonal skills and a good team worker.\n\n**Skills:**\n\nMATLAB, Python, SQL, C, Solidworks, Rhinoceros (Grasshopper), AutoCAD, CATIA, Photoshop/Illustrator, ANSYS, Abaqus, EnergyPlus, MasterCAM, SketchUp, HTML, Unity\n\n**Languages:**\n\nEnglish (fluent), Chinese (native), French (intermediate), German (intermediate)",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
-  "seoMetaImage": ""
+  "seoMetaImage": "/images/uploads/selfie.jpg"
 }
